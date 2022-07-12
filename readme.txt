@@ -1,3 +1,5 @@
+descriere: simple java.net client-server socket connect + stream read/write implementation 
+
 Design patterns folosite:
 
 Factory ( pentru socketuri, o solutie pentru a ascunde eventuale detalii pentru socketuri custom, ex: implementat un layer pentru clienti deasupra la socketuri)
